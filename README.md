@@ -1,10 +1,5 @@
 # Helix-Jump
 
-I tried to recreate a fairly popular game in a short time,
-well, it turned out terribly, the creation of basic mechanics such as 
-spawning platforms or moving the ball, in principle, did not create any problems,
-but it turned out to be more difficult to repeat the exact visual component...
-
 
 <div>
    <img src="https://sun9-35.userapi.com/s/v1/if2/f-GV7sFbq9LTJ_bAhj2DHMSH4mpvQ_9XQDHCfITW8KSPQCZHi4L3nERq-cbXHJWheF9MxS3fo8a7wiCi0JQDDy9m.jpg?size=540x1080&quality=95&type=album" width="200"/>
